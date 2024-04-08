@@ -1,4 +1,9 @@
 # 介绍
+- 直接安装的一件脚本
+wget https://github.com/Michaelhehappy/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l
+
+或
+bash <(wget -qO- -o- https://git.io/v2ray.sh)
 
 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
 
